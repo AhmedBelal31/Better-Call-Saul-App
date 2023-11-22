@@ -5,7 +5,7 @@ A new Flutter project.
 <hr>
 
 
-* Used Flutter with MVVM BLoC pattern to show some info. about my favorite series 🎬 Better Call Saul.
+* Used Flutter with MVVM And BLoC pattern to show some info. about my favorite series 🎬 Better Call Saul.
 * Played with some fancy UI widgets.
 
 
